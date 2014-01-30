@@ -1,0 +1,14 @@
+http://serverfault.com/questions/243151/how-does-apache-creates-a-thread
+http://serverfault.com/questions/257391/how-many-users-can-apache-handle
+http://httpd.apache.org/docs/2.2/misc/perf-tuning.html
+http://adventuresindotnet.blogspot.in/2010/09/svn-trouble.html
+http://robmalon.com/keepalive-on-or-off-server-settings/
+Need to write detail description
+
+Next Steps
+a) Set the value of timeout
+	http://httpd.apache.org/docs/2.2/mod/core.html#timeout
+	Lets see
+	
+b)If Build still doesnot hold 
+   Change the value of KeepAlive to Off
