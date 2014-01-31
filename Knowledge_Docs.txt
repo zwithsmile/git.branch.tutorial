@@ -8,7 +8,10 @@ Need to write detail description
 Next Steps
 a) Set the value of timeout
 	http://httpd.apache.org/docs/2.2/mod/core.html#timeout
+	http://robmalon.com/keepalive-on-or-off-server-settings/
 	Lets see
 	
 b)If Build still doesnot hold 
    Change the value of KeepAlive to Off
+   
+http://serverfault.com/questions/
